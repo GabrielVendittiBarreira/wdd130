@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 420" role="img" aria-labelledby="titulo descricao">
+  <title id="titulo">Rafting em corredeiras</title>
+  <desc id="descricao">Bote de rafting descendo um rio com montanhas ao fundo.</desc>
+  <rect width="840" height="420" fill="#bfe3ef"/>
+  <path d="M0 145 120 70l88 70 92-95 130 120 95-72 105 78 86-90 124 104v235H0z" fill="#264653"/>
+  <path d="M0 195c120-42 208 32 330-6 116-36 210 15 324-18 78-22 126-4 186 28v221H0z" fill="#055a5f"/>
+  <path d="M0 245c108-28 171 34 276 0 106-34 196 22 302-8 107-30 174 11 262 42v141H0z" fill="#e8f7ff"/>
+  <path d="M220 272c60 24 144 24 204 0l-30 54H250z" fill="#f4a261" stroke="#264653" stroke-width="8"/>
+  <circle cx="280" cy="250" r="13" fill="#e9c46a"/>
+  <circle cx="324" cy="242" r="13" fill="#e9c46a"/>
+  <circle cx="368" cy="250" r="13" fill="#e9c46a"/>
+  <path d="M252 238 226 202M305 230l-8-44M384 236l34-38" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+  <path d="M36 318c58-28 106 25 162-1m286 20c72-31 120 22 198-6" fill="none" stroke="#bfe3ef" stroke-width="8" stroke-linecap="round"/>
+</svg>

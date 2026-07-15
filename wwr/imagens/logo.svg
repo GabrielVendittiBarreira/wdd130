@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 120" role="img" aria-labelledby="titulo">
+  <title id="titulo">Logotipo Correnteza Rafting</title>
+  <rect width="180" height="120" rx="12" fill="#f8fbfb"/>
+  <path d="M20 76c24-24 42 18 66-6s43 16 74-14" fill="none" stroke="#055a5f" stroke-width="10" stroke-linecap="round"/>
+  <path d="M28 90c24-18 42 12 66-4s42 12 58-4" fill="none" stroke="#f4a261" stroke-width="8" stroke-linecap="round"/>
+  <path d="M88 24 128 64H48z" fill="#264653"/>
+  <text x="90" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#055a5f">RAFTING</text>
+</svg>
